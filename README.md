@@ -10,5 +10,5 @@
 10. React router is used for routing.
 11. Lazy loading concept is used for performance.
 12. Made reusable components like header,footer to include in other pages if needed.
-13. In the console use the command npm start to run the project.
+13. Open the project folder in the terminal and use the command npm start to run the project.
 
